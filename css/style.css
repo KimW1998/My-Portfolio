@@ -1,5 +1,17 @@
 h1 {
   color: pink;
   font-family: tangerine, cursive;
+  text-align: center;
+}
+
+h2 {
+  color: pink;
   font-family: "Lora", serif;
+  text-align: center;
+}
+
+.img-logo {
+  display: block;
+  max-width: 100%;
+  width: auto;
 }
