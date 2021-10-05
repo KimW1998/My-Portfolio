@@ -1,3 +1,9 @@
+:root {
+  --primary-color: #6c63ff;
+  --secondary-color: #f5f2fe;
+  --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+}
+
 h1 {
   color: pink;
   font-family: tangerine, cursive;
@@ -14,4 +20,24 @@ h2 {
   display: block;
   max-width: 100%;
   width: auto;
+}
+
+.homepage-link {
+  display: flex;
+  margin-top: 40px;
+  justify-content: center;
+}
+
+.homepage-link a {
+  margin: 20px;
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+
+.work-with-me-link {
+  background: var(--primary-color);
+  box-shadow: var(--box-shadow);
+  color: white;
 }
