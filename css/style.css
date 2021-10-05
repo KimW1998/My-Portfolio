@@ -4,22 +4,29 @@
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
+.header-background {
+  background-color: pink;
+  padding: 160px 20px;
+}
+
 h1 {
-  color: pink;
+  color: black;
   font-family: tangerine, cursive;
   text-align: center;
+  font-size: large;
 }
 
 h2 {
-  color: pink;
+  color: black;
   font-family: "Lora", serif;
   text-align: center;
+  font-size: small;
 }
 
 .img-logo {
   display: block;
-  max-width: 100%;
-  width: auto;
+  max-width: 15%;
+  margin: auto;
 }
 
 .homepage-link {
