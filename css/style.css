@@ -54,3 +54,8 @@ h2 {
     align-items: center !important;
   }
 }
+
+footer {
+  background-color: lightgray;
+  text-align: center;
+}
