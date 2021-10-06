@@ -47,6 +47,8 @@ h2 {
   background: var(--primary-color);
   box-shadow: var(--box-shadow);
   color: black;
+  outline-style: solid;
+  outline-width: thin;
 }
 
 @media only screen and (max-width: 767px) {
