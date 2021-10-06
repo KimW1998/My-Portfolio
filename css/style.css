@@ -1,6 +1,6 @@
 :root {
-  --primary-color: #6c63ff;
-  --secondary-color: #f5f2fe;
+  --primary-color: lightgray;
+  --secondary-color: #888888;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
@@ -13,14 +13,14 @@ h1 {
   color: black;
   font-family: tangerine, cursive;
   text-align: center;
-  font-size: large;
+  font-size: 90px;
 }
 
 h2 {
   color: black;
   font-family: "Lora", serif;
   text-align: center;
-  font-size: small;
+  font-size: 20px;
 }
 
 .img-logo {
@@ -46,7 +46,7 @@ h2 {
 .work-with-me-link {
   background: var(--primary-color);
   box-shadow: var(--box-shadow);
-  color: white;
+  color: black;
 }
 
 @media only screen and (max-width: 767px) {
