@@ -5,7 +5,7 @@
 }
 
 .header-background {
-  background-color: pink;
+  background-image: url("/images/shoe-header-img.png");
   padding: 160px 20px;
 }
 
