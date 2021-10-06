@@ -53,6 +53,10 @@ h2 {
   .homepage-cards {
     align-items: center !important;
   }
+
+  .one-card {
+    padding: 20px 15px;
+  }
 }
 
 footer {
