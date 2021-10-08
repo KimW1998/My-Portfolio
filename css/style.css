@@ -63,6 +63,12 @@ h2 {
 .my-work-item-button {
 }
 
+.coding-experience-preview {
+  display: block;
+  margin: auto;
+  width: 70%;
+}
+
 .about-me-img {
   display: block;
   margin: auto;
