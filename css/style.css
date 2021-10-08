@@ -51,6 +51,19 @@ h2 {
   outline-width: thin;
 }
 
+.my-work-item {
+  outline-style: solid;
+  outline-width: thin;
+  outline-color: black;
+}
+
+.my-work-img {
+  padding: 20px 0px;
+}
+
+.my-work-item-button {
+}
+
 @media only screen and (max-width: 767px) {
   .homepage-cards {
     align-items: center !important;
