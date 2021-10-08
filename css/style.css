@@ -75,6 +75,20 @@ h2 {
   width: 90%;
 }
 
+.boutique-link {
+  display: flex;
+  margin-top: 40px;
+  justify-content: center;
+}
+
+.boutique-link a {
+  margin: 20px;
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+
 .living-raw-boutique-link {
   background: var(--primary-color);
   box-shadow: var(--box-shadow);
