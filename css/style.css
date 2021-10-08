@@ -52,9 +52,9 @@ h2 {
 }
 
 .my-work-item {
-  outline-style: solid;
-  outline-width: thin;
-  outline-color: black;
+}
+.my-work-item-text {
+  padding: 10px 10px;
 }
 
 .my-work-img {
@@ -71,6 +71,10 @@ h2 {
 
   .one-card {
     padding: 20px 15px;
+  }
+
+  .my-work-item {
+    text-align: center;
   }
 }
 
