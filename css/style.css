@@ -23,6 +23,14 @@ h2 {
   font-size: 20px;
 }
 
+h4 {
+  font-family: "Lora", serif;
+}
+
+p {
+  font-family: "Lora", serif;
+}
+
 .img-logo {
   display: block;
   max-width: 10%;
