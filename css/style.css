@@ -39,6 +39,31 @@ p {
   font-family: "Lora", serif;
 }
 
+.fashion-design-header-tekst {
+  font-family: "Lora", serif;
+  font-size: 15px;
+}
+
+.coder-header-tekst {
+  font-family: "Lora", serif;
+  font-size: 15px;
+}
+
+.coder-experience-tekst {
+  font-family: "Bad Script", cursive;
+  font-size: 40px;
+}
+
+.coder-project-tekst {
+  font-family: "Bad Script", cursive;
+  font-size: 40px;
+}
+
+.boutique-page-tekst {
+  font-family: "Bad Script", cursive;
+  font-size: 40px;
+}
+
 .img-logo {
   display: block;
   max-width: 10%;
@@ -97,7 +122,7 @@ p {
 
 .boutique-link a {
   margin: 20px;
-  border-radius: 4px;
+  border-radius: 0px;
   padding: 20px 15px;
   text-decoration: none;
   text-transform: capitalize;
