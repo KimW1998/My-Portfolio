@@ -9,9 +9,6 @@
   padding: 160px 20px;
 }
 
-.nav {
-}
-
 h1 {
   color: black;
   font-family: "Bad Script", cursive;
@@ -26,8 +23,16 @@ h2 {
   font-size: 20px;
 }
 
+h3 {
+  font-family: "Lora", serif;
+}
+
 h4 {
   font-family: "Lora", serif;
+}
+
+h5 {
+  font-family: "Bad Script", cursive;
 }
 
 p {
@@ -62,16 +67,8 @@ p {
   outline-width: thin;
 }
 
-.my-work-item {
-}
-.my-work-item-text {
-}
-
 .my-work-img {
   padding: 20px 0px;
-}
-
-.my-work-item-button {
 }
 
 .coding-experience-preview {
