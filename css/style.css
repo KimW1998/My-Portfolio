@@ -8,6 +8,7 @@
   background-image: url("/images/shoe-header-img.png");
   padding: 160px 20px;
   width: 100%;
+  background-repeat: no-repeat;
 }
 
 h1 {
